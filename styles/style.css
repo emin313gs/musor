@@ -38,13 +38,13 @@ body {
 
 
 .wront__card  {
-  background: url('../2.png');
+  background: url('../img/2.png');
   background-size: contain;
   background-repeat: no-repeat;
 }
 
 .back__card{
-  background: url('../1.png');
+  background: url('../img/1.png');
   background-size: contain;
   background-repeat: no-repeat;
   transform: rotateY(180deg);
